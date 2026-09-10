@@ -136,8 +136,5 @@ python test_summarizer.py
 * Support multiple document formats
 * Improve UI and document processing performance
 
-## 👩‍💻 Author
-
-**Hima Bindu Davuluri**
 
 GitHub: https://github.com/himabindudavavuri30
